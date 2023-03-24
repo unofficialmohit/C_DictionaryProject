@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -204,6 +205,10 @@ char del()
 if(flag1==0)
 {
 	printf("WORD NOT FOUND");
+}
+else
+{
+  printf("Deletion Successful");
 }
 printf("\n\nPress any key to continue");
 
