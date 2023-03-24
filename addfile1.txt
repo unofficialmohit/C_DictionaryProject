@@ -1,0 +1,5 @@
+mohit = aman
+s = g
+e = y
+f = h
+d = h
